@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans",sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2c3a47;
+}
+
+.bmw
+{
+ position: absolute;
+ font-size:  50px;
+ top: 50px ; 
+ left: 100px;
+ color: #BB0000;
+}
+.logo
+{
+    position: absolute;
+    top: 20px;
+    left: 400px; 
+}
+.m
+{
+    position: absolute;
+    top: 650px;
+    left: 1200px; 
+}
+.mk
+{
+    position: absolute;
+    top: 800px;
+    left: 0px; 
+}
+.link
+{
+    position: absolute;
+     top: 10px;
+    left: 1100px;
+    font-size: 20px;
+    color: #0000AA;
+}
+.linkk
+{
+    position: absolute;
+     top: 10px;
+    left: 1250px;
+    font-size: 20px;
+    color: #0000AA;
+}
+.linkkk
+{
+    position: absolute;
+     top: 10px;
+    left: 1350px;
+    font-size: 20px;
+    color: #0000AA;
+}
+.ml
+{
+    position: absolute;
+    top:1500px;
+    left: 0px;
+}
